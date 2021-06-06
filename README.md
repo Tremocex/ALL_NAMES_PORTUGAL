@@ -5,6 +5,8 @@ This repository contains two .txt files each containing, respectively, a list of
 NOTE:
 The search and collection of Portuguese first and last names was intended to feed a knowledge base to serve a specialized spell checker for first and last names, basically playing the role of an OCR post processing line. Along with the two raw files feeding the KDB follows source code for running and testing the created spell checker.
 
+- In each text file the names are repeated ***n*** times, where n is the frequency of occurrence/existence of a name in Portugal.
+
 # #NAMES ≈ 6177
 # #SURNAMES ≈ 909
 
